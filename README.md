@@ -1,4 +1,11 @@
-ICE 1 - INVENTORY SYSTEM 
-ICE 2 - PAYMENT APPROVAL SYSTEM
-ICE 3 - PERSONAL FINANCE TRACKER
-ICE 4 - .....
+# Project Overviews 
+
+
+## ICE 1 - Inventory System
+
+## ICE 2 - Payment Approval System
+
+## ICE 3 - Personal Finance Tracker
+
+## ICE 4 - ...
+
