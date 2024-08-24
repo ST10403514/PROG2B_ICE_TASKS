@@ -1,0 +1,14 @@
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\ICE1.csproj.AssemblyReference.cache
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\MainWindow.baml
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\MainWindow.g.cs
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\App.g.cs
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\ICE1_MarkupCompile.cache
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\ICE1.g.resources
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\ICE1.Properties.Resources.resources
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\ICE1.csproj.GenerateResource.cache
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\ICE1.csproj.CoreCompileInputs.cache
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\bin\Debug\ICE1.exe.config
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\bin\Debug\ICE1.exe
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\bin\Debug\ICE1.pdb
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\ICE1.exe
+C:\Users\mason\OneDrive\Desktop\PROG 2B\repos\ICE1\ICE1\obj\Debug\ICE1.pdb
